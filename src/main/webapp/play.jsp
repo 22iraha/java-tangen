@@ -7,7 +7,7 @@
     int totalNum = 25;  // 残数用の変数。仮で25をセットしている。必要に応じて変更
     String totalNum = (String)   ("value");
     if (totalNum == null){
-    	totalNum = "";
+    	totalNum = ""；
     }
     
     int x = min;
