@@ -20,5 +20,11 @@ public class Utility {
      * @return
      */
     // todo:ここにgetStoneDisplayHtmlメソッドを定義
-
+    int getStoneDisplayHtmi(int stone) {
+    	int stone = ;
+    	
+    	int getStoneDisplayHtmi = stone (25 - );
+    	
+    	return getStoneDisplayHtmi;
+    }
 }
